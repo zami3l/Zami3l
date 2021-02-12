@@ -1,5 +1,5 @@
 ## Hi there, I'm [Zami3l](https://zami3l.com/) :bowtie:
-[![](https://img.shields.io/badge/-4033%20CAE0%20604E%204323%2060A3%20EDD0%20286B%20DBD8%20CC48%2081EA-192a56?style=for-the-badge&label=GPG&logo=gnu-privacy-guard&logoColor=white)](https://zami3l.com/key.asc)  
+[![](https://img.shields.io/badge/-4033%20CAE0%20604E%204323%2060A3%20EDD0%20286B%20DBD8%20CC48%2081EA-192a56?style=for-the-badge&label=GPG&logo=gnu-privacy-guard&logoColor=white)](https://zami3l.com/4033CAE0604E432360A3EDD0286BDBD8CC4881EA_E.asc)  
 [![](https://img.shields.io/badge/-zami3l.com-353b48?style=for-the-badge&label=website&logo=red-hat&logoColor=white)](https://zami3l.com/)
 [![](https://img.shields.io/badge/-tryhackme-c11111?style=for-the-badge&label=training&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/zami3l)
 [![](https://img.shields.io/badge/-rootme-black?style=for-the-badge&label=training&logo=hackaday&logoColor=white)](https://www.root-me.org/Zami3l)
