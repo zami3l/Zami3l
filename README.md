@@ -6,7 +6,7 @@
 
 
 :books: Currently I am learning cybersecurity and training on TryHackMe and Root Me.  
-:computer: Soon, I will to work as a System and Network administrator speciality GNU/linux.
+:computer: I am a wannabe System and Network administrator speciality GNU/linux.
 
 ### My environment
 [![](https://img.shields.io/badge/-archlinux-118cc6?style=for-the-badge&label=GNU/Linux&logo=arch-linux&logoColor=white)](https://archlinux.org/)
