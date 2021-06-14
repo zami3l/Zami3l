@@ -8,10 +8,15 @@
 :books: Currently I am learning cybersecurity and training on TryHackMe and Root Me.  
 :computer: I am a wannabe System and Network administrator speciality GNU/linux.
 
-### My environment
+### My environment GNU/Linux
 [![](https://img.shields.io/badge/-archlinux-118cc6?style=for-the-badge&label=GNU/Linux&logo=arch-linux&logoColor=white)](https://archlinux.org/)
 [![](https://img.shields.io/badge/-neovim-19953f?style=for-the-badge&label=text%20editor&logo=neovim&logoColor=white)](https://neovim.io/)
 [![](https://img.shields.io/badge/-xfce-0097e6?style=for-the-badge&label=desktop&logo=xfce&logoColor=white)](https://www.xfce.org/)  
 [![](https://img.shields.io/badge/-alacritty-c0392b?style=for-the-badge&label=terminal&logo=gnu-bash&logoColor=white)](https://github.com/alacritty/alacritty)
 [![](https://img.shields.io/badge/-tmux-4cd137?style=for-the-badge&label=terminal&logo=tmux&logoColor=white)](https://github.com/tmux/tmux/wiki)
 [![](https://img.shields.io/badge/-zsh-7f8c8d?style=for-the-badge&label=shell&logo=gnu-bash&logoColor=white)](https://ohmyz.sh/)
+
+### BSD Server
+:wrench: I am also in the testing / learning phase on BSD servers.  
+[![](https://img.shields.io/badge/-openbsd-4cd137?style=for-the-badge&label=BSD&logo=openbsd&logoColor=white)](https://www.openbsd.org/)
+[![](https://img.shields.io/badge/-freebsd-c0392b?style=for-the-badge&label=BSD&logo=freebsd&logoColor=white)](https://www.freebsd.org/)
