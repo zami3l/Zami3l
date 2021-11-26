@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/-zami3l.com-353b48?style=for-the-badge&label=website&logo=red-hat&logoColor=white)](https://zami3l.com/)
 
 
-:briefcase: I am a wannabe System and Network Administrator.  
+:briefcase: I am a Network and System Administrator.  
 :computer: I work with Linux and BSD systems. 
 
 ### Workstation Environment
