@@ -19,4 +19,6 @@
 ### Server Environment
 
 [![](https://img.shields.io/badge/-openbsd-4cd137?style=for-the-badge&label=BSD&logo=openbsd&logoColor=white)](https://www.openbsd.org/)
+[![](https://img.shields.io/badge/-netbsd-f39c12?style=for-the-badge&label=BSD&logo=netbsd&logoColor=white)](https://www.netbsd.org/)
+[![](https://img.shields.io/badge/-freebsd-e74c3c?style=for-the-badge&label=BSD&logo=freebsd&logoColor=white)](https://www.freebsd.org/)
 [![](https://img.shields.io/badge/-debian-c0392b?style=for-the-badge&label=Linux&logo=debian&logoColor=white)](https://www.debian.org/)
